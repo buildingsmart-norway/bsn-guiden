@@ -1,4 +1,8 @@
+# Introduksjon
+Innholdet under er en kopi av innholdet tilgjengelig [bs-guiden/definisjoner](https://buildingsmart.no/bs-guiden/definisjoner) på buildingSMART Norge sine nettsider og ble hentet 2. juli 2019. 
+
 # Definisjoner
+
 Kravene i bSN Guiden nytter seg av en rekke definisjoner for objekttyper, roller, faser og prosesser. bSN Guiden benytter også en rekke definisjoner basert på NS 8360 BIM Objekter.
 
 ## RLOM
@@ -44,4 +48,4 @@ produktmerking med GS1 EAN-13 koder;
 bruk av Statsbyggs Tverrfaglig Merkesystem i BIM;
 bruk av klassifikasjon i BIM er basert på NS 8360 BIM objekter.
 
-Innholdet er oppdatert 17.02.2017 på buildingSMART sine nettsider. 
+Innholdet er oppdatert 17.02.2017 på buildingSMART sine nettsider.
